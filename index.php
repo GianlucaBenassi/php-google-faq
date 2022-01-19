@@ -82,6 +82,29 @@
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    ciao
+    
+    <header>
+
+        <div class="header-top">
+            <img src="./img/google.svg" alt="Google logo">
+            <h1>Privacy e termini</h1>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#">Introduzione</a></li>
+                <li><a href="#">Norme sulla privacy</a></li>
+                <li><a href="#">Termini di servizio</a></li>
+                <li><a href="#">Tecnologie</a></li>
+                <li class="active"><a href="#">Domande frequenti</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <main>
+
+    </main>
+
 </body>
 </html>
